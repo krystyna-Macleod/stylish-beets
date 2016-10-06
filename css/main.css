@@ -2,10 +2,10 @@ html {
   background-color: #c9b5ab;
 }
 
-h1 ol {
+.beets li {
   color: #8f2440;
 }
 
-.beets li {
-  color: #8f2440;
+img {
+  width: 100%;
 }
