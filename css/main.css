@@ -30,4 +30,10 @@ h2 {
 h1 {
   font-family: 'PT Serif', serif;
   color: #3f1622;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal;
 }
