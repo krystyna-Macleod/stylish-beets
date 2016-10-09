@@ -37,3 +37,7 @@ h1 {
 p {
   font-weight: normal;
 }
+
+#first {
+  font-weight: bold;
+}
