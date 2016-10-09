@@ -9,6 +9,7 @@ h1 nav {
 
 a:hover {
   color: #8f2440;
+  text-decoration: none;
 }
 
 a:link {
