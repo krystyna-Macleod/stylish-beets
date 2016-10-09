@@ -8,11 +8,15 @@ h1 nav {
 }
 
 a:hover {
-  color: #222,
+  color: #8f2440,
+}
+
+a:link {
+  color: #8f2440;
 }
 
 img {
-  width: 75%;
+  width: 100%;
 }
 
 ol {
@@ -42,4 +46,8 @@ p {
 
 #first {
   font-weight: bold;
+}
+
+#sec {
+  
 }
