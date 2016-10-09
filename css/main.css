@@ -9,3 +9,7 @@ html {
 img {
   width: 100%;
 }
+
+ol {
+  list-style: none;
+}
