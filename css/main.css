@@ -1,5 +1,6 @@
 html {
   background-color: #c9b5ab;
+  list-style-type: square;
 }
 
 h1 nav {
@@ -32,6 +33,7 @@ h1 {
   color: #3f1622;
   line-height: 1.5;
   font-weight: bold;
+  text-decoration: none;
 }
 
 p {
