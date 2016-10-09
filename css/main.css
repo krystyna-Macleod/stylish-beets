@@ -5,7 +5,7 @@ html {
 
 h1 + nav {
   color: #8f2440;
-  line-height: normal;
+  line-height: 1.5rem;
   font-size: 1rem;
   font-weight: bold;
   font-family: "PT Sans", serif;
