@@ -3,8 +3,12 @@ html {
   list-style-type: square;
 }
 
-h1 nav {
+h1 + nav {
   color: #8f2440;
+  line-height: normal;
+  font-size: 1rem;
+  font-weight:  bold;
+  font-family: "PT Sans", serif;
 }
 
 a:hover {
@@ -30,14 +34,15 @@ ul {
 
 h2 {
   color: #3f1622;
-  font-family: 'PT Sans', serif;
+  font-family: "PT Sans", serif;
 }
 
 h1 {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   color: #3f1622;
   line-height: 1.5;
-  font-weight: bold;
+  font-size: 2rem;
+  font-weight: bolder;
   text-decoration: none;
 }
 
