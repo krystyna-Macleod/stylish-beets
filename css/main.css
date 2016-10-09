@@ -17,3 +17,8 @@ ol {
 ul {
   list-style: none;
 }
+
+h2 {
+  color: #c9b5ab;
+  font-family: 'PT Sans', sans-serif;
+}
