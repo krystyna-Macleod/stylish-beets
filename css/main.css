@@ -6,6 +6,10 @@ html {
   color: #8f2440;
 }
 
+a:hover {
+  color: #222,
+}
+
 img {
   width: 100%;
 }
