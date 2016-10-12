@@ -67,3 +67,7 @@ p {
 cite {
   font-size: 0.8rem;
 }
+
+dt {
+  font-weight: bold;
+}
