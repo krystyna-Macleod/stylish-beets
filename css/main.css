@@ -20,10 +20,11 @@ img {
   width: 100%;
 }
 
-a{
+a {
   list-style: none;
   list-style-type: none;
   font-family: "PT Serif", serif;
+  text-decoration: none;
 }
 
 h2 {
