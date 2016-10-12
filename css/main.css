@@ -69,6 +69,7 @@ dt {
   font-weight: bold;
 }
 
-source {
-
+figcaption {
+  font-style: italic;
+  font-size: 0.8rem;
 }
