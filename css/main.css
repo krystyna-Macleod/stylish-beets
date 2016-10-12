@@ -58,13 +58,11 @@ p {
 }
 
 .quote {
-  text-align: right;
-  line-height: 2.5rem;
   font-style: italic;
   font-size: 1.125rem;
   font-family: "PT Serif", serif;
 }
 
-cite {
+.quote cite {
   font-size: 0.8rem;
 }
