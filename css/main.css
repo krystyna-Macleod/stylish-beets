@@ -28,13 +28,13 @@ img {
 ol {
   list-style: none;
   list-style-type: none;
-  font-family: "PT Sans", serif;
+  font-family: "PT Serif", serif;
 }
 
 ul {
   list-style: none;
   font-weight: bold;
-  font-family: "PT Sans", serif;
+  font-family: "PT Serif", serif;
 }
 
 h2 {
@@ -80,5 +80,5 @@ dt {
 }
 
 source {
-  font-family: "PT Sans", serif;
+
 }
