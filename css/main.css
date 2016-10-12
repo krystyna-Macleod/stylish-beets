@@ -22,7 +22,7 @@ img {
 
 a {
   list-style: none;
-  list-style-type: lower-latin;
+  list-style-type: lower-roman;
   font-family: "PT Serif", serif;
   text-decoration: none;
 }
@@ -72,4 +72,8 @@ dt {
 figcaption {
   font-style: italic;
   font-size: 0.8rem;
+}
+
+ul {
+  list-style-type: circle;
 }
