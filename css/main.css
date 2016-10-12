@@ -55,7 +55,15 @@ p {
   font-weight: bold;
 }
 
-.quote {
-  text-align: center;
-  font-size: italic;
+.quote .cite {
+  text-align: right, center;
+  font-style: italic;
+  list-style-type: square;
+  font-size: 2rem;
+}
+
+.cite {
+  text-align: right, center;
+  font-style: italic;
+  list-style-type: square;
 }
