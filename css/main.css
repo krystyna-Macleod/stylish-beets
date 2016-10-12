@@ -22,7 +22,7 @@ img {
 
 a {
   list-style: none;
-  list-style-type: none;
+  list-style-type: lower-latin;
   font-family: "PT Serif", serif;
   text-decoration: none;
 }
