@@ -65,8 +65,6 @@ p {
   font-family: "PT Serif", serif;
 }
 
-.cite {
-  text-align: right;
-  font-style: italic;
-  list-style-type: square;
+cite {
+  font-size: 0.8rem;
 }
