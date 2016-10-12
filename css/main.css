@@ -58,6 +58,7 @@ p {
 }
 
 .quote {
+  line-height: 1.5rem;
   font-style: italic;
   font-size: 1.125rem;
   font-family: "PT Serif", serif;
