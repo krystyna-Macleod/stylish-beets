@@ -6,8 +6,10 @@ h1 + nav {
   color: #8f2440;
   line-height: 1.5rem;
   font-size: 1rem;
-  font-weight: bold;
+  font-weight: bolder;
   font-family: "PT Sans", serif;
+  text-decoration: none;
+
 }
 
 a:hover {
@@ -38,11 +40,11 @@ h2 {
 }
 
 h1 {
-  font-family: "PT Serif", serif;
+  font-family: "PT Sans", serif;
   color: #3f1622;
   line-height: 1.5;
-  font-size: 2rem;
-  font-weight: bolder;
+  font-size: 1.5rem;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -55,17 +57,17 @@ p {
   font-weight: bold;
 }
 
-.quote .cite {
-  text-align: right;
-  text-align: center;
+.quote {
+  text-align: right,center;
+  line-height: 2.5rem;
   font-style: italic;
   list-style-type: square;
-  font-size: 2rem;
+  font-size: 1.5rem;
+  font-family: "PT Serif", serif;
 }
 
 .cite {
-  text-align: right;
-  text-align: center;
+  text-align: left;
   font-style: italic;
   list-style-type: square;
 }
