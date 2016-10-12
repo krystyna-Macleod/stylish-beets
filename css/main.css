@@ -2,14 +2,13 @@ html {
   background-color: #c9b5ab;
 }
 
-a {
+.links {
   color: #8f2440;
   line-height: 1.5rem;
   font-size: 1.125rem;
   font-weight: bolder;
   font-family: "PT Sans", serif;
   text-decoration: none;
-
 }
 
 a:hover {
@@ -21,15 +20,9 @@ img {
   width: 100%;
 }
 
-ol {
+a{
   list-style: none;
   list-style-type: none;
-  font-family: "PT Serif", serif;
-}
-
-ul {
-  list-style: none;
-  font-weight: bold;
   font-family: "PT Serif", serif;
 }
 
