@@ -22,7 +22,6 @@ img {
 
 a {
   list-style: none;
-  list-style-type: lower-roman;
   font-family: "PT Serif", serif;
   text-decoration: none;
 }
@@ -65,7 +64,7 @@ dt {
   font-weight: bold;
 }
 
-.b {
+.part-list-b {
   font-weight: bold;
 }
 
@@ -74,7 +73,8 @@ figcaption {
   font-size: 0.8rem;
 }
 
-ul {
+.list-c {
   list-style-type: circle;
   font-size: 0.8rem;
+  line-height: normal;
 }
