@@ -29,6 +29,7 @@ a {
 h2 {
   color: #3f1622;
   font-family: "PT Sans", serif;
+  font-weight: bold;
 }
 
 h1 {
@@ -58,14 +59,6 @@ p {
 
 cite {
   font-size: 0.8rem;
-}
-
-dt {
-  font-weight: bold;
-}
-
-.part-list-b {
-  font-weight: bold;
 }
 
 figcaption {
