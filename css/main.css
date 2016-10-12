@@ -56,14 +56,16 @@ p {
 }
 
 .quote .cite {
-  text-align: right, center;
+  text-align: right;
+  text-align: center;
   font-style: italic;
   list-style-type: square;
   font-size: 2rem;
 }
 
 .cite {
-  text-align: right, center;
+  text-align: right;
+  text-align: center;
   font-style: italic;
   list-style-type: square;
 }
