@@ -92,13 +92,14 @@ figcaption {
 }
 
 .part-list-b {
-  font-weight: normal;
-  font-size: 1.125rem;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 0.8rem;
 }
 
 .list-b {
   font-weight: normal;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   line-height: 1.5rem;
 }
 
