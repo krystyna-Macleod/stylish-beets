@@ -84,7 +84,7 @@ figcaption {
   list-style-type: lower-greek;
 }
 
-.list-c {
+ul {
   list-style-type: decimal;
   font-size: 0.8rem;
   line-height: normal;
