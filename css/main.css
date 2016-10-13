@@ -85,7 +85,7 @@ figcaption {
 }
 
 ul {
-  list-style-type: decimal;
+  list-style-type: circle;
   font-size: 0.8rem;
   line-height: normal;
   text-decoration: none;
