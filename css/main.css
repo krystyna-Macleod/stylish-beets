@@ -80,7 +80,8 @@ figcaption {
   font-family: "PT Serif", serif;
   color: #222;
   font-weight: normal;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
+  line-height: 1.5rem;
   list-style-type: lower-greek;
 }
 
@@ -93,6 +94,12 @@ figcaption {
 .part-list-b {
   font-weight: normal;
   font-size: 1.125rem;
+}
+
+.list-b {
+  font-weight: normal;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
 }
 
 dt {
