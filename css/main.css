@@ -2,7 +2,31 @@ html {
   background-color: #c9b5ab;
 }
 
-.zero {
+h1 {
+  color: #3f1622;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  font-family: "PT Sans", serif;
+}
+
+h2 {
+  color: #3f1622;
+  font-family: "PT Sans", serif;
+  font-weight: bolder;
+}
+
+a:hover {
+  background-color: #3f1622;
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:link {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+ol {
   color: #8f2440;
   line-height: 1.5rem;
   font-size: 1.125rem;
@@ -12,38 +36,24 @@ html {
   list-style-type: none;
 }
 
-a:hover {
-  color: #8f2440;
-  text-decoration: none;
-}
-
 img {
   width: 100%;
 }
 
-a {
-  list-style: none;
-  font-family: "PT Serif", serif;
-  text-decoration: none;
-}
-
-h2 {
-  color: #3f1622;
-  font-family: "PT Sans", serif;
-  font-weight: bold;
-}
-
-h1 {
-  font-family: "PT Sans", serif;
-  color: #3f1622;
+figcaption {
   font-size: 1.5rem;
-  font-weight: bolder;
-  text-decoration: none;
+  text-align: center;
 }
 
 p {
   font-weight: normal;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+a {
   font-size: 1.125rem;
+  text-decoration: none;
   line-height: 1.5rem;
 }
 
@@ -53,12 +63,11 @@ p {
 
 .quote {
   line-height: 1.5rem;
-  font-style: italic;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-family: "PT Serif", serif;
 }
 
-cite {
+.quote cite {
   font-size: 0.8rem;
 }
 
@@ -71,4 +80,13 @@ figcaption {
   list-style-type: circle;
   font-size: 0.8rem;
   line-height: normal;
+}
+
+.part-list-b {
+  font-weight: normal;
+  font-size: 1.125rem;
+}
+
+dt {
+  font-weight: bold;
 }
