@@ -76,6 +76,14 @@ figcaption {
   font-size: 0.8rem;
 }
 
+.list-a {
+  font-family: "PT Serif", serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 1.125rem;
+  list-style-type: lower-greek;
+}
+
 .list-c {
   list-style-type: circle;
   font-size: 0.8rem;
