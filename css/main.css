@@ -9,6 +9,7 @@ html {
   font-weight: bolder;
   font-family: "PT Sans", serif;
   text-decoration: none;
+  list-style-type: none;
 }
 
 a:hover {
